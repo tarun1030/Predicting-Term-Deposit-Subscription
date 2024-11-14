@@ -93,6 +93,4 @@ Contributions are welcome! If you have ideas for improvement or additional funct
 ### 📝 License
 This project is licensed under the MIT License.
 
-</> 
-
-This template can be further customized based on the specific techniques or models used in your project. Make sure to replace the "requirements.txt" instructions with actual dependencies once you've finalized them. Let me know if there’s anything specific you’d like to add!
+</>
