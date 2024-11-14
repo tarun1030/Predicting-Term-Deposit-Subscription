@@ -37,7 +37,7 @@ The dataset used in this project is sourced from [Kaggle’s Term Deposit Datase
 1. **Clone the Repository**  
    Clone the repository to your local environment.
    ¿¿¿bash
-   git clone https://github.com/tarun1030/predict-term-deposit-subscription.git
+   git clone https://github.com/tarun1030/Predicting-Term-Deposit-Subscription.git
    cd predict-term-deposit-subscription
    ¿¿¿
 
