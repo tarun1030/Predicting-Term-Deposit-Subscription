@@ -28,7 +28,7 @@ This project focuses on predicting whether customers are likely to subscribe to 
 ---
 
 ### 📊 Dataset
-The dataset used in this project is sourced from [Kaggle’s Term Deposit Dataset](https://www.kaggle.com/bank-direct-marketing-campaigns.csv). This data provides customer demographics, campaign information, and socio-economic indicators essential for predicting term deposit subscription likelihood.
+The dataset used in this project is sourced from [Kaggle’s Term Deposit Dataset](https://www.kaggle.com/datasets/ruthgn/bank-marketing-data-set). This data provides customer demographics, campaign information, and socio-economic indicators essential for predicting term deposit subscription likelihood.
 
 ---
 
